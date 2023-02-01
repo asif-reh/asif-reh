@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @asif-reh.I am a basketball geek and interested in writing technical blogs.
-- 👀 I’m interested in Frontend Development.
+- 👋 Hi, I’m @asif-reh.I am a basketball geek and a math tutor.
+- 👀 I’m interested in Frontend Development and would like to write technical blogs on aws and javascript.
 - 🌱 I’m currently learning and building projects using JavaScript frameworks and libraries like React.js,Node.js,Express.js and Next.js.
 - 💞️ I’m looking to collaborate on contributing my learnings by building projects related to frontend dev.
 - 📫 You can reach me out on @linkedin - Shaik Asif Ur Rehman.
