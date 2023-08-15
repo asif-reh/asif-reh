@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shaik Asif<br> I'm a Frontend Engineer.<br>very passionate about UI/UX.<br>I'm interested in Open-Source contributions using my Tech Stack.<br>Like to solve and understand Maths and Statistics.</h2>
+<h2 align="left">Hi 👋! My name is Shaik Asif<br> I'm a Frontend Engineer.<br>Very much passionate about UI/UX.<br>I'm interested in Open-Source contributions using my Tech Stack.<br>Like to solve and understand Maths and Statistics.</h2>
 
 ###
 
@@ -50,6 +50,18 @@
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
