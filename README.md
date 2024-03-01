@@ -13,7 +13,7 @@ I love to build Full Stack Web Apps and work on standalone ideas for development
 * 🧠  I'm learning React.js | Next.js | Prisma | PostgreSQL
 * 🤝  I'm open to collaborating on Ghost - An Open Source Blog Platform.
 * ⚡  Love to Manage Time | Family | Work | Basketball.
-
+  
 <a href="https://www.github.com/asif-reh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/asif-reh?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
