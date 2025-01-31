@@ -4,15 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer
 -------------------
 
-I love to build Full Stack Web Apps and work on standalone ideas for development. Learning is the key skill for me. I aim to redeem myself into a great startup and contribute a lot. Love to be an Open-Source Contributor to level up my skill set. KeepHQ, MindsDB, FireCamp, Vercel, and Wasp: Curious to work on these open-source tools.
+I love to build Full Stack Web Apps and work on standalone ideas for development. Learning is the key skill for me. I aim to redeem myself into a great startup and contribute a lot. Love to be an Open-Source Contributor to level up my skill set. KeepHQ, MindsDB, FireCamp, Vercel, and Wasp: Curious to work on these open-source tools. I intend to integration of Different tech domains like IoT + Machine Learning in future.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio - On the way](http://ds)
+* 🖥️  See my portfolio at [Portfolio](In Progress)
 * ✉️  You can contact me at [asifurrehman2509@gmail.com](mailto:asifurrehman2509@gmail.com)
-* 🚀  I'm currently working on [Open-source Saver](http://sd)
-* 🧠  I'm learning React.js | Next.js | Prisma | PostgreSQL
+* 🚀  I'm currently working on [Open-source Saver](https://app.opensauced.pizza/workspaces/fb163ee5-3794-4fdd-9120-3121ff65a07f)
+* 🧠  I'm learning by building apps using React.js | Next.js | Prisma | PostgreSQL and also curious to know about Deep Engineering of LLM's and Machine Learning Models.
+* 🧠  My Research Papers in Progress on MentalHealthGPT[Overleaf](https://www.overleaf.com/read/zsqbmmdsfskf#7d9444), NutritionGPT.
 * 🤝  I'm open to collaborating on Ghost - An Open Source Blog Platform.
 * ⚡  Love to Manage Time | Family | Work | Basketball.
+* 
   
 <a href="https://www.github.com/asif-reh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/asif-reh?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
