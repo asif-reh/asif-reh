@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shaik Asif Ur Rehman
 ============================================================================================================================================
 
-Full Stack Engineer
+Full Stack AI Engineer
 -------------------
 
 I love to build Full Stack Web Apps and work on standalone ideas for development. Learning is the key skill for me. I aim to redeem myself into a great startup and contribute a lot. Love to be an Open-Source Contributor to level up my skill set. KeepHQ, MindsDB, FireCamp, Vercel, and Wasp: Curious to work on these open-source tools. I intend to integration of Different tech domains like IoT + Machine Learning in future.
